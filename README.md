@@ -70,6 +70,7 @@ pip install transformers torch datasets
 ## 🖼️ Sample Output
 
 ![Sample Output](outputs.png)
+![Sample Output](outputs(1).png)
 
 ---
 
